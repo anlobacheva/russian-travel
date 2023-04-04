@@ -1,0 +1,9 @@
+.place__top-part {
+    display: flex;
+}
+
+@media screen and (max-width: 320px) {
+    .place__top-part {
+        flex-direction: column;
+    }
+}

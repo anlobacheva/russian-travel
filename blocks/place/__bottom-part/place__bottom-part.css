@@ -1,0 +1,9 @@
+.place__bottom-part {
+    display: flex;
+}
+
+@media screen and (max-width: 320px) {
+    .place__bottom-part {
+        flex-direction: column;
+    }
+}
