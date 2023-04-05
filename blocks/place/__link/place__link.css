@@ -1,8 +1,8 @@
 .place__link {
     margin: 0;
     padding: 0;
-    text-decoration: underline;
-    font-family: 'Inter';
+    color: white;
+    font-family: 'Inter', Arial, 'Helvetica Neue', sans-serif;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
