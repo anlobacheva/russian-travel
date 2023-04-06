@@ -4,11 +4,11 @@
     max-width: 464px;
 }
 
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     .place__paragraphs {
         max-width: 456px;
     }
-}
+} */
 
 @media screen and (max-width: 768px) {
     .place__paragraphs {
@@ -18,7 +18,7 @@
 
 @media screen and (max-width: 715px) {
     .place__paragraphs {
-        max-width: 288px;
+        /* max-width: 288px; */
         padding: 0 16px;
     }
 }
